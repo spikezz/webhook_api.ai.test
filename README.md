@@ -15,4 +15,4 @@ The services takes the `geo-city` parameter from the action, performs geolocatio
 The service packs the result in the Api.ai webhook-compatible response JSON and returns it to Api.ai.
 
 ###################
-It's a copy from api.ai official! 
+It's a copy from api.ai official! This repository will be deleted if the official thinks it's improper.
